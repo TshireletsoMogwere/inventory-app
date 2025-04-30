@@ -69,7 +69,7 @@ function EditProductForm({ product, updateProduct, cancelEdit }) {
         </div>
         
         <div>
-          <label className="block text-gray-700 mb-1">Price ($)</label>
+          <label className="block text-gray-700 mb-1">Price (R)</label>
           <input
             type="number"
             name="price"

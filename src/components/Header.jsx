@@ -3,7 +3,7 @@ function Header({ activeTab, setActiveTab }) {
       <header className="bg-gray-800 text-white">
         <div className="container mx-auto px-6 py-4">
           <div className="flex justify-between items-center">
-            <h1 className="text-2xl font-bold">Inventory Manager</h1>
+            <h1 className="text-2xl font-bold">Inventory Management</h1>
             <nav>
               <ul className="flex space-x-6">
                 <li>

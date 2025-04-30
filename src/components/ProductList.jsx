@@ -19,7 +19,6 @@ function ProductList({ products, updateProduct, deleteProduct }) {
 
   return (
     <div className="mt-8">
-      <h2 className="text-2xl font-bold mb-6">Product Inventory</h2>
       
       {editingProduct && (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
