@@ -1,5 +1,5 @@
-*** Inventory Management System ***
-A web-based inventory management system designed to help businesses to track stock levels, restock notifications, and sales records.
+## Inventory Management System
+- A web-based inventory management system designed to help businesses to track stock levels, restock notifications, and sales records.
 
 ## Features
 - Add
