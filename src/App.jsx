@@ -1,9 +1,10 @@
 import { useState, useEffect } from 'react';
 import ProductList from './components/ProductList';
-import AddProductForm from './components/AddproductForm';
+import AddProductForm from './components/AddProductForm'
 import Header from './components/Header';
 import SalesReport from './components/SalesReport';
 import { generateDummyProducts, generateDummySales } from './utils/dummydata';
+import AddProductForm from './components/AddProductForm';
 
 function App() {
   const [products, setProducts] = useState(() => {
